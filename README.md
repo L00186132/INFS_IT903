@@ -1,2 +1,2 @@
-# INFS_IT903
+# Python Practicles
 Infrastructure as Code practicals
