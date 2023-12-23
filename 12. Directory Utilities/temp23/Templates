@@ -1,0 +1,11 @@
+#!/usr/bin/env python2
+
+""""
+This file: Main routine for Binary Mux
+Origin: Forked from the Comm module of SD-Node, written c. 2017
+Description: Takes a serial input and logs, optionally forwards to a UDP address:port
+Compatibility: Tested with Python >=3.6
+
+By: PMM
+    Version     Date    Description
+"""
