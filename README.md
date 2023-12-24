@@ -28,7 +28,7 @@
 ## Summary
 A repository contains a collection of simple python coding examples to demonstrate Python capabilities.
 
-If you want to learn about python, visit here.
+If you want to learn more about python, visit https://www.python.org/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -56,20 +56,49 @@ Distributed under the Donegal ATU License. See `LICENSE` for more information.
 
 <!-- Contributions -->
 ## Contributions
+| Folder | Description | Notes
+| ---|---|---
+| 1. Assignments and Variables |  | 
+| 2. Documentation |  | 
+| 3. Lists |  | 
+| 4. Loops and Strings |  | 
+| 5. Functions |  | 
+| 6. Modules and Packages |  | 
+| 7. Error Handling |  | 
+| 8. Object Oriented |  | 
+| 9. Pylint |  | 
+| 10. File and OS Utilities |  | 
+| 11. Server Monitoring |  | 
+| 12. Directory Utilities |  | 
 
-Folder | Examples | Comments
----|---|---
-Example 1 | Assignments and Variables | 
-Example 2 | Your code has been rated  | 
 
-<br>
+#### GitHubInstructions
+* Clone repository
+  ```sh
+  git clone https://github.com/L00186132/Python.git
+  ```
+* Fork repository
+  ```sh
+  https://github.com/L00186132/Python/fork
+  ```
+* Create your feature branch
+  ```sh
+  git checkout -b feature/branch
+  ```
+* Commit your changes
+  ```sh
+  git commit -am 'Add commit message'
 
-#### GitHub Instructions
-* Fork it (https://github.com/yourname/yourproject/fork)
-* Create your feature branch (git checkout -b feature/fooBar)
-* Commit your changes (git commit -am 'Add some fooBar')
-* Push to the branch (git push origin feature/fooBar)
-* Create a new Pull Request
-
+  -a (commit all)
+  -m (add message)
+  ```
+* Push branch changes to GitHub
+  ```sh
+  git push origin feature/branch
+  ```
+* Create a new Pull Request 
+  ```sh
+  https://github.com/L00186132/Python/pulls
+  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
